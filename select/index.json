@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "CUBE",
+  "base_artist": "iri",
+  "createdAt": "2026-03-08T03:47:50.205520Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ridin (feat. Landon Cube & YBN Nahmir)",
+      "artist": "Yung Bans",
+      "has_synced": true,
+      "path": "select/01_Ridin_(feat._Landon_Cube_&_YBN_Nahmir)_Yung_Bans.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Grand Finale (feat. Nas, T.I., Bun B, Jadakiss & Ice Cube)",
+      "artist": "Lil Jon & The East Side Boyz",
+      "has_synced": false,
+      "path": "select/02_Grand_Finale_(feat._Nas,_T.I.,_Bun_B,_Jadakiss_&_Ice_Cube)_Lil_Jon_&_The_East_Side_Boyz.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nowadays (feat. Landon Cube)",
+      "artist": "Lil Skies feat. Landon Cube",
+      "has_synced": true,
+      "path": "select/03_Nowadays_(feat._Landon_Cube)_Lil_Skies_feat._Landon_Cube.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nowadays (feat. Landon Cube)",
+      "artist": "Lil Skies",
+      "has_synced": true,
+      "path": "select/04_Nowadays_(feat._Landon_Cube)_Lil_Skies.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Real Nigga Roll Call (feat. Ice Cube)",
+      "artist": "Lil Jon & The Eastside Boyz",
+      "has_synced": true,
+      "path": "select/05_Real_Nigga_Roll_Call_(feat._Ice_Cube)_Lil_Jon_&_The_Eastside_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Roll Call (Bad Brains Remix) (feat. Ice Cube)",
+      "artist": "Lil Jon & The East Side Boyz",
+      "has_synced": false,
+      "path": "select/06_Roll_Call_(Bad_Brains_Remix)_(feat._Ice_Cube)_Lil_Jon_&_The_East_Side_Boyz.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Issues (feat. Ice Cube, Anderson .Paak & Dem Jointz)",
+      "artist": "Dr. Dre",
+      "has_synced": true,
+      "path": "select/07_Issues_(feat._Ice_Cube,_Anderson_.Paak_&_Dem_Jointz)_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "State Of Emergency (feat. Ice Cube)",
+      "artist": "The Game",
+      "has_synced": true,
+      "path": "select/08_State_Of_Emergency_(feat._Ice_Cube)_The_Game.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mighty Cube",
+      "artist": "I:Cube",
+      "has_synced": false,
+      "path": "select/09_Mighty_Cube_I_Cube.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Get Em Up - Vocals: Ice Cube",
+      "artist": "Paul Oakenfold",
+      "has_synced": false,
+      "path": "select/10_Get_Em_Up_-_Vocals__Ice_Cube_Paul_Oakenfold.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pressure (feat Ice Cube)",
+      "artist": "Killer Mike",
+      "has_synced": true,
+      "path": "select/11_Pressure_(feat_Ice_Cube)_Killer_Mike.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hand of the Dead Body (feat. Ice Cube)",
+      "artist": "Scarface",
+      "has_synced": true,
+      "path": "select/12_Hand_of_the_Dead_Body_(feat._Ice_Cube)_Scarface.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Can't Hold Back (feat. Ice Cube)",
+      "artist": "WC",
+      "has_synced": true,
+      "path": "select/13_Can't_Hold_Back_(feat._Ice_Cube)_WC.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cheddar (feat. Mack 10 & Ice Cube)",
+      "artist": "WC",
+      "has_synced": true,
+      "path": "select/14_Cheddar_(feat._Mack_10_&_Ice_Cube)_WC.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Like That (feat. Ice Cube, Daz Dillinger & CJ Mac)",
+      "artist": "WC",
+      "has_synced": false,
+      "path": "select/15_Like_That_(feat._Ice_Cube,_Daz_Dillinger_&_CJ_Mac)_WC.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mary The Ice Cube",
+      "artist": "Primus",
+      "has_synced": true,
+      "path": "select/16_Mary_The_Ice_Cube_Primus.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Children Of The Korn (featuring Ice Cube)",
+      "artist": "Korn",
+      "has_synced": false,
+      "path": "select/17_Children_Of_The_Korn_(featuring_Ice_Cube)_Korn.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Cube - Scene",
+      "artist": "Logic",
+      "has_synced": true,
+      "path": "select/18_The_Cube_-_Scene_Logic.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Last Wordz (feat. Ice Cube & Ice-T)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/19_Last_Wordz_(feat._Ice_Cube_&_Ice-T)_2Pac.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CUBE",
+      "artist": "iri",
+      "has_synced": false,
+      "path": "select/pl_01_CUBE_iri.txt"
+    }
+  ]
+}
